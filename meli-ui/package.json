@@ -6,9 +6,11 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "test": "jest"
   },
   "dependencies": {
+    "jsdom": "^19.0.0",
     "next": "12.1.5",
     "number-formatter": "^1.2.0",
     "react": "18.1.0",
@@ -27,6 +29,8 @@
     "eslint": "8.14.0",
     "eslint-config-next": "12.1.5",
     "jest": "^28.0.2",
+    "jest-environment-jsdom": "^28.0.2",
+    "ts-node": "^10.7.0",
     "typescript": "4.6.4"
   }
 }

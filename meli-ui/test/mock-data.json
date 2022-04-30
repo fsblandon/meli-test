@@ -1,0 +1,70 @@
+{
+    "author": {
+        "name": "Fredy",
+        "lastname": "Blandon"
+    },
+    "categories": [
+        {
+            "id": "MLA1430",
+            "name": "Ropa y Accesorios"
+        },
+        {
+            "id": "MLA455528",
+            "name": "Abrigos"
+        },
+        {
+            "id": "MLA109085",
+            "name": "Buzos y Hoodies"
+        }
+    ],
+    "items": [
+        {
+            "id": "MLA1125208061",
+            "title": "Buzo Undefined Ccm 1/3 Belen Edition",
+            "price": {
+                "currency": "ARS",
+                "amount": 35000,
+                "decimals": 2
+            },
+            "picture": "D_646983-MLA46239355481_062021-O.jpg",
+            "condition": "new",
+            "free_shipping": true
+        },
+        {
+            "id": "MLA1126666140",
+            "title": "Undefined",
+            "price": {
+                "currency": "ARS",
+                "amount": 20000,
+                "decimals": 2
+            },
+            "picture": "D_839667-MLA49307193618_032022-O.jpg",
+            "condition": "new",
+            "free_shipping": true
+        },
+        {
+            "id": "MLA1134016770",
+            "title": "Buzo Undefined Nfs Rmx Talle S.",
+            "price": {
+                "currency": "ARS",
+                "amount": 10000,
+                "decimals": 2
+            },
+            "picture": "D_910040-MLA49777471536_042022-O.jpg",
+            "condition": "new",
+            "free_shipping": false
+        },
+        {
+            "id": "MLA1127845911",
+            "title": "Buzo Undefined Blacksheep Undf",
+            "price": {
+                "currency": "ARS",
+                "amount": 32000,
+                "decimals": 2
+            },
+            "picture": "D_772238-MLA49374093293_032022-O.jpg",
+            "condition": "new",
+            "free_shipping": false
+        }
+    ]
+}

@@ -13,14 +13,21 @@ Commands to execute the server and client.
 `cd meli-server`\
 `npm install --save`\
 `npm run dev`\
-Open `http://localhost:9000/`
+Open `http://localhost:9000/` in Postman to test the endpoints.
 
+Test Enpoints:
+* Search items: /api/items?1={query}
+* Detail item: /api/items/:id
 
 ### Frontend
 `cd meli-ui`\
 `npm install --save`\
 `npm run dev`\
-Open `http://localhost:3000/`
+Open `http://localhost:3000/` in your web browser.
+
+Test UI Routes:
+* Search items: /items?search={query}
+* Detail item: /items/:id
 
 ## About me
 [Fredy Santiago Blandon Ocampo](https://fsblandon.super.site/) 

@@ -1,0 +1,34 @@
+{
+    "author": {
+        "name": "Fredy",
+        "lastname": "Blandon"
+    },
+    "item": {
+        "id": "MLA1134016770",
+        "title": "Buzo Undefined Nfs Rmx Talle S.",
+        "price": {
+            "currency": "ARS",
+            "amount": 10000,
+            "decimal": 2
+        },
+        "picture": "D_910040-MLA49777471536_042022-I.jpg",
+        "condition": "new",
+        "free_shipping": false,
+        "sold_quantity": 0,
+        "description": "Buzo undefined NFS RMX. NUEVO SIN ETIQUETA. \nTalle m. Solo efectivo."
+    },
+    "categories": [
+        {
+            "id": "MLA1430",
+            "name": "Ropa y Accesorios"
+        },
+        {
+            "id": "MLA455528",
+            "name": "Abrigos"
+        },
+        {
+            "id": "MLA109085",
+            "name": "Buzos y Hoodies"
+        }
+    ]
+}
