@@ -1,5 +1,5 @@
 # Meli Test Assessment
-Test Assessment to be hired in MELI.
+Test Assessment to be hired at MELI.
 
 ## Description
 Application micro Mercado Libre created in stack:
